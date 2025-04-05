@@ -47,17 +47,30 @@ The app analyzes your financial health using the following indicators:
 
 ## Screenshots
 
+<h2>Screenshots</h2>
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 12 07](https://github.com/user-attachments/assets/e34dfe69-a5d5-4311-9557-2e7ce4dab06f)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 12 12](https://github.com/user-attachments/assets/42e8e2be-7447-49fb-9868-a2b6ae40d78c)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 12 30](https://github.com/user-attachments/assets/b2ff803d-c3ee-4c3d-b214-d7b6e26dbdf2)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 12 36](https://github.com/user-attachments/assets/fdd48aec-9a42-4ddf-93c9-badc1b06b077)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 12 43](https://github.com/user-attachments/assets/d3fc51f4-71ad-4132-b6a8-84e72606ec46)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 12 47](https://github.com/user-attachments/assets/0214363b-1519-4eff-bbef-1b6bfbd510c4)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 15 21](https://github.com/user-attachments/assets/d24624ea-f618-4379-8463-e9467fbba21b)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 15 25](https://github.com/user-attachments/assets/d7a86d75-b7fd-4d84-b1da-5199acd3fc96)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 15 32](https://github.com/user-attachments/assets/68bbf0f5-3dab-4f14-bb40-71ae57dc09f6)
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-05 at 16 15 45](https://github.com/user-attachments/assets/99f7d4e9-be77-4d02-8a07-bff2f132a6be)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/e34dfe69-a5d5-4311-9557-2e7ce4dab06f" alt="Simulator Screenshot 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/42e8e2be-7447-49fb-9868-a2b6ae40d78c" alt="Simulator Screenshot 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/b2ff803d-c3ee-4c3d-b214-d7b6e26dbdf2" alt="Simulator Screenshot 3" width="300"/>
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/fdd48aec-9a42-4ddf-93c9-badc1b06b077" alt="Simulator Screenshot 4" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d3fc51f4-71ad-4132-b6a8-84e72606ec46" alt="Simulator Screenshot 5" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0214363b-1519-4eff-bbef-1b6bfbd510c4" alt="Simulator Screenshot 6" width="300"/>
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/d24624ea-f618-4379-8463-e9467fbba21b" alt="Simulator Screenshot 7" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d7a86d75-b7fd-4d84-b1da-5199acd3fc96" alt="Simulator Screenshot 8" width="300"/>
+  <img src="https://github.com/user-attachments/assets/68bbf0f5-3dab-4f14-bb40-71ae57dc09f6" alt="Simulator Screenshot 9" width="300"/>
+</p>
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/99f7d4e9-be77-4d02-8a07-bff2f132a6be" alt="Simulator Screenshot 10" width="300"/>
+</p>
+
 
 
 
