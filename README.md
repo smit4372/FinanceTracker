@@ -81,7 +81,7 @@ The app analyzes your financial health using the following indicators:
 2. Open the project in Xcode:
    ```bash
    cd FinanceTracker
-   open hw2Smit.xcodeproj
+   open FinanceTracker.xcodeproj
    ```
 
 3. Build and run the application on your iOS device or simulator.
